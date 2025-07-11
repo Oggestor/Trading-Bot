@@ -1,0 +1,27 @@
+{
+    "william": {
+        "amount": 200,
+        "bear": false,
+        "coins": ["BTCUSDC"]
+    },
+    "oskar": {
+        "amount": 5000,
+        "bear": false,
+        "coins": ["BTCUSDC"]
+    },
+    "william_test": {
+        "amount": 15,
+        "bear": false,
+        "coins": ["BTCUSDC"]
+    },
+    "oskar_test": {
+        "amount": 40,
+        "bear": false,
+        "coins": []
+    },
+    "oskar_main": {
+        "amount": 250,
+        "bear": false,
+        "coins": []
+    }
+}
